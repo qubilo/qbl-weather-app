@@ -1,0 +1,54 @@
+{
+    "countries": [
+      {
+        "name": "Colombia",
+        "longitude": -74.2973,
+        "latitude": 4.5709
+      },
+      {
+        "name": "United States",
+        "longitude": -95.7129,
+        "latitude": 37.0902
+      },
+      {
+        "name": "Canada",
+        "longitude": -106.3468,
+        "latitude": 56.1304
+      },
+      {
+        "name": "Brazil",
+        "longitude": -51.9253,
+        "latitude": -14.2350
+      },
+      {
+        "name": "United Kingdom",
+        "longitude": -3.4359,
+        "latitude": 55.3781
+      },
+      {
+        "name": "Australia",
+        "longitude": 133.7751,
+        "latitude": -25.2744
+      },
+      {
+        "name": "France",
+        "longitude": 2.2137,
+        "latitude": 46.6031
+      },
+      {
+        "name": "India",
+        "longitude": 78.9629,
+        "latitude": 20.5937
+      },
+      {
+        "name": "China",
+        "longitude": 104.1954,
+        "latitude": 35.8617
+      },
+      {
+        "name": "South Africa",
+        "longitude": 24.2687,
+        "latitude": -30.5595
+      }
+    ]
+  }
