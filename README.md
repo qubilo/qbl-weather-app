@@ -8,6 +8,10 @@ Welcome to the Weather Forecast App challenge! This challenge is designed to ass
 
 You are tasked with building a simple Weather application using React. The application should allow users to enter a city name, and it will display the current weather conditions for that city.
 
+## Figma File
+
+https://www.figma.com/file/wv4roKUn4L1O4PPzFQzVMp/Untitled?type=design&node-id=0-1&mode=design&t=xLGCT01TxClbpI00-0
+
 ### Requirements
 
 1. **User Interface:**
